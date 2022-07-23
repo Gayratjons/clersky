@@ -125,3 +125,44 @@ body {
 	justify-content: space-around;
 	list-style-type: none;
 }
+
+.quality {
+	margin-top: 120px;
+	padding-bottom: 100px;
+	background-color: #163a24;
+}
+.dark {
+	padding-top: 60px;
+	color: #fff;
+}
+.between {
+	justify-content: space-between;
+}
+.center {
+	text-align: center;
+}
+.faeture-text {
+	font-size: 18px;
+	color: #fff;
+}
+
+.shapes {
+	padding-top: 120px;
+	background-color: #f2efe6;
+	text-align: center;
+	padding-bottom: 140px;
+}
+.shapes-heading {
+	margin: 0;
+	font-size: 48px;
+	margin-bottom: 27px;
+	font-family: 'Comfortaa';
+}
+
+.shapes-text {
+	font-size: 18px;
+}
+
+.together {
+	padding: 120px 0 112px 0;
+}
