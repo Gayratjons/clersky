@@ -166,3 +166,128 @@ body {
 .together {
 	padding: 120px 0 112px 0;
 }
+.p5 {
+	font-family: 'Comfortaa';
+	font-weight: bold;
+	font-size: 50px;
+	display: flex;
+	justify-content: center;
+}
+.p6 {
+	color: #163A24;
+	display: flex;
+	justify-content: center;
+	margin-top: -30px;
+}
+.card {
+	width: 350px;
+	height: 350px;
+	background-color:#FBFAF7;
+	box-shadow: 1px 1px 20px #d8d8d7;
+	border-radius: 10px;
+}
+.card1 {
+	width: 350px;
+	height: 400px;
+	background-color:#FBFAF7;
+	box-shadow: 1px 1px 20px #d8d8d7;
+	border-radius: 10px;
+}
+.cards{
+	display: flex;
+	width: 1350px;
+	justify-content: space-around;
+	margin-left: auto;
+	margin-right: auto;
+}
+.shell {
+	margin-left: 50px;
+	margin-top: 50px;
+}
+.shellp{
+	font-family: 'Comfortaa';
+	width: 250px;
+	font-size: 25px;
+	font-weight: bold;
+	margin-left: 50px;
+}
+.div1{
+	display: flex;
+}
+.point{
+	width: 10px;
+	height: 10px;
+	border-radius: 50%;
+	background-color: black;
+}
+.pointp{
+	margin-top: -5px;
+	margin-left: 10px;
+}
+.divs3{
+	margin-top: 40px;
+	margin-left: 50px;
+}
+.sixthdiv{
+	margin-top: 100px;
+	height: 100vh;
+	width: auto;
+	display: flex;
+}
+.ps{
+	width: 500px;
+	margin-top: auto;
+	margin-bottom: auto;
+	margin-left: 200px;
+}
+.div6_p {
+	font-size: 50px;
+	font-family: 'Comfortaa';
+	color: #163A24;
+	font-weight: bold;
+}
+.div6_p2 {
+	font-size: 20px;
+	font-family: 'Comfortaa';
+	color: #163A24;
+	font-weight: bold;
+}
+.button{
+	width: 250px;
+	height: 60px;
+	background-color:#198C36;
+	border-radius: 30px;
+	color: #fff;
+	font-size: 25px;
+	font-family: 'Comfortaa';
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.e-book{
+	margin-left: 50px;
+	display: flex;
+	align-self: center;
+	width: 490px;
+	height: 490px;
+}
+.seventhdiv{
+	height: 50vh;
+	width: auto;
+	background-color: #163A24;
+	display: flex;
+}
+.left{
+	width: 200px;
+	height: 300px;
+	position: relative;
+	bottom: -56px;
+}
+.div7_p{
+margin-left: auto;
+margin-right: auto;
+font-family: 'Comfortaa';
+color: white;
+font-weight: bold;
+font-size: 50px;
+}
